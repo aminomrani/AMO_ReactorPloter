@@ -1,0 +1,5 @@
+AMO_ReactorPlotter was initially a simple academic project that, combined with an idea I had, took steps toward becoming a larger-scale project. 
+
+In this project, I aim to use chemical reaction rate equations along with reactor design equations to create a tool that allows users to easily observe how reaction rates change with reactant concentrations and other potential scenarios. 
+
+Additionally, future versions are planned to incorporate non-ideal conditions into the software.
